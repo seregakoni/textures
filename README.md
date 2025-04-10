@@ -58,4 +58,3 @@ def draw_candy(shape="circle", texture="swirl"):
 
 # Example usage
 draw_candy("heart", "swirl")
-ewa
